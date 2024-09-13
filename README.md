@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0007-reverse-integer) |
+## String
+|  |
+| ------- |
+| [0851-goat-latin](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0851-goat-latin) |
 <!---LeetCode Topics End-->
