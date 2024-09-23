@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0851-goat-latin) |
+| [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
