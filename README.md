@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0058-length-of-last-word) |
 | [0541-reverse-string-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0851-goat-latin) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
