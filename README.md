@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 ## Linked List
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 ## Simulation
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
