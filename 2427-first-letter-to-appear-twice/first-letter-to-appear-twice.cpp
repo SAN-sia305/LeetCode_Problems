@@ -1,15 +1,16 @@
-#include<vector>
 class Solution {
 public:
     char repeatedCharacter(string s){
-        vector<int> freq(26,0);
-        for(char c:s){ 
-            freq[c-'a']++;
-            if(freq[c-'a'] == 2){ 
-                return c;
-                break; 
-            }
+       int min = s.size()-1;
+       for(int i=0;i<(s.size()-1);i++){
+           for(int j=i+1;j<(s.size()-1); j++){
+              if(s[i]==s[j] && j<min){
+                    min = j;
+
+              }
+              else{ continue;}
+           }          
         }
-    return -1;    
+      return s[min];
     }
 };
