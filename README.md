@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0851-goat-latin) |
+| [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Queue
 |  |
 | ------- |
@@ -81,4 +83,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
