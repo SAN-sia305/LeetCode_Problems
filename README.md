@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [0851-goat-latin](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0851-goat-latin) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
 | [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
