@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
