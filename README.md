@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1894-merge-strings-alternately) |
