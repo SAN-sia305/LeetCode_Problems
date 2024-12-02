@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -112,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
