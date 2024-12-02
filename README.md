@@ -117,4 +117,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1833-find-the-highest-altitude) |
+## Depth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
