@@ -6,11 +6,11 @@ public:
         while(n > 1){
         if(n%2 == 0){ 
             match = (n/2); 
-            n=(n/2);    
+            n=match;    
         }
         else{ 
             match = ((n-1)/2); 
-            n=((n-1)/2)+1;
+            n=match+1;
         }
         TMatches += match;
     }
