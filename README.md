@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2748-calculate-delayed-arrival-time) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1833-find-the-highest-altitude](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1833-find-the-highest-altitude) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
 | [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Trie
 |  |
 | ------- |
@@ -165,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
