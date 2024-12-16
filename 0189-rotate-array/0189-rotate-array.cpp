@@ -1,18 +1,19 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
-        /*int temp;
-        for(auto j = 0; j < k; j++){
-            temp = nums.back();
-            for(auto i = nums.size()-1; i > 0  ; i--){
-                nums[i]=nums[i-1];
-            }
-            nums[0]=temp;
-        }*/
-        int n = nums.size();
-        k = k % n;
-        reverse(nums.begin(),nums.end());
-        reverse(nums.begin(),nums.begin()+k);
-        reverse(nums.begin()+k,nums.end());
+       int size = nums.size();
+       if (size <= 1 || k == 0) return;
+       vector<int> swaped(size);
+       int idx = 0;
+       k = k % size;
+       for(int i = size-k; i < size; i++){
+          swaped[idx++] = nums[i];
+          cout<<nums[i]<<endl;
+       }
+       for(int i = 0; i < size-k; i++){
+          swaped[idx++] = nums[i];
+          cout<<nums[i]<<endl;
+        }
+    nums = swaped;
     }
 };
