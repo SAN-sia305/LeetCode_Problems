@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2748-calculate-delayed-arrival-time](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2748-calculate-delayed-arrival-time) |
 ## String
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Trie
 |  |
