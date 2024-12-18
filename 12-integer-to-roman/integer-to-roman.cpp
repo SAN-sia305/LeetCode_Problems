@@ -16,10 +16,10 @@ public:
                                        {1000,"M"},
                                      };
         string output = ""; 
-        for(auto& c : mp){                                    
-            while(num >= c.first){
-                num-=c.first;
-                output+=c.second;
+        for(auto& [first,second] : mp){                                    
+            while(num >= first){
+                num-=first;
+                output+=second;
             }
         }
         return output;
