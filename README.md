@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1048-clumsy-factorial](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1048-clumsy-factorial) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0058-length-of-last-word) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
