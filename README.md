@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
+| [1048-clumsy-factorial](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1048-clumsy-factorial) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2238-a-number-after-a-double-reversal](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [1048-clumsy-factorial](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1048-clumsy-factorial) |
 | [1072-next-greater-node-in-linked-list](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1072-next-greater-node-in-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0735-asteroid-collision) |
+| [1048-clumsy-factorial](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1048-clumsy-factorial) |
 | [1806-count-of-matches-in-tournament](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2470-removing-stars-from-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
