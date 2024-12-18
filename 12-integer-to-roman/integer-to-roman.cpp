@@ -17,7 +17,7 @@ public:
                                      };
         string output = ""; 
         while(num > 0){                                    
-            for(auto c : mp){
+            for(auto& c : mp){
                 if(num >= c.first){
                 num-=c.first;
                 output+=c.second;
