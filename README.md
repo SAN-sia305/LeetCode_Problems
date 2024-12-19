@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
 ## Simulation
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/SAN-sia305/LeetCode_Problems/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
