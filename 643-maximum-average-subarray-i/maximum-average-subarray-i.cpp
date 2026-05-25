@@ -13,7 +13,6 @@ public:
             maxsum = max(maxsum,sum);
         }
 
-        double avg = double(maxsum)/double(k);
-        return avg;
+        return (double) maxsum/k;
     }
 };
